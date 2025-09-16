@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk1dDBneGtud2EybzczbGkyajhjZGNmMWo3Z3lmYmFhajljMXNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 - 💻 pursuing BTech in Computer Science with a specialization in Cybersecurity
 - 📚 Keen interest in web development and Cryptography
