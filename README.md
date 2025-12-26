@@ -3,10 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk1dDBneGtud2EybzczbGkyajhjZGNmMWo3Z3lmYmFhajljMXNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 - 💻 pursuing BTech in Computer Science with a specialization in Cybersecurity
-- 📚 Keen interest in web development and Cryptography
+- 📚 Keen interest in web development 
 - 📝 A problem solver, swiftly adapting to new technologies and contributing to dynamic teams
 - 🌱 Focused on technology-driven environments and improving customer satisfaction
-- 🌟 Main intrest: Python, Cryptography, Web Development
 - 🚩 Interested in contributing to real-world projects in tech
 
 ### 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px> 
